@@ -10,3 +10,8 @@ p{
 .mainCard{
     background-color: lightyellow;
 }
+.media-body{
+    font-size: 20px;
+    font-weight: 400;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
